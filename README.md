@@ -67,10 +67,6 @@ Then, we will showcase several working examples for the tables and figures, whic
     <img src='samples/poster_example_neurips22.jpg' width="800">
 </p>
 
-### LaTeX Files for My Thesis (SYSU B.Eng. + HKU PhD.)
-- [Single View Analysis of Non-Lambertian Objects Based on Deep Learning](https://github.com/guanyingc/HKU-PhD-Thesis-LaTex) (PhD Thesis, HKU CS)
-- [LaTex Template Files for Undergraduate Thesis (Sun Yat-sen University)](https://github.com/guanyingc/SYSU-LaTex-Thesis)
-
 ### Simple Python Programs for Figure Creation
 - [A simple code for plotting figure, colorbar, and cropping with python](https://github.com/guanyingc/python_plot_utils)
 
