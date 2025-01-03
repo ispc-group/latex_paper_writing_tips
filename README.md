@@ -7,7 +7,6 @@
 * [More Resources](#more-resources)
   * [LaTeX Templates for CVPR/ICCV/NeurIPS Paper Submission](#latex-templates-for-cvpriccvneurips-paper-submission)
   * [Sample LaTeX Conference Posters (CVPR/ICCV/ECCV/NeurIPS)](#sample-latex-conference-posters-cvpriccveccvneurips)
-  * [LaTeX Files for My Thesis (SYSU B.Eng. + HKU PhD.)](#latex-files-for-my-thesis-sysu-beng--hku-phd)
   * [Simple Python Programs for Figure Creation](#simple-python-programs-for-figure-creation)
   * [Great Resources Shared by Others](#great-resources-shared-by-others)
 
